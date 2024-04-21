@@ -1,4 +1,4 @@
-#valve_revers.py
+#valve_reverse.py
 # U.S. Solid Motorized Ball Valve- 1/2” 15mm, 2 Wire Reverse Polarity USS-MSV00012 SKU:JFMSV00012
 # Valve connected to two channel relay in reverse polarity setup powered by 12V DC.
 # Two buttons on the breadboard (green and yellow). The green (GPIO18) opens the valve, yellow (GPIO16) closes.

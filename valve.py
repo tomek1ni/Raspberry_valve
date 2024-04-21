@@ -1,4 +1,10 @@
-#valve_old.py
+#valve.py
+# U.S. Solid Motorized Ball Valve- 1/2” 15mm, Stainless Steel Ball Valve Manual Function, 2 Wire Auto Return
+# USS-MSV00038 SKU:JFMSV00038
+# Valve connected to one channel relay. One button on the breadboard. A single pres of the button opens the
+# valve, and another press of the same button closes it. When the valve is in an open state, and power source 
+# is removed, it will automatically close itself. 
+
 import RPi.GPIO as GPIO
 from time import sleep
 
